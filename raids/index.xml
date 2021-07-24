@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L&#39;oeil de Moscou</title>
-    <link>http://example.org/raids/</link>
+    <link>https://origin-finkle.github.io/wcl/raids/</link>
     <description>Recent content on L&#39;oeil de Moscou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/raids/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://origin-finkle.github.io/wcl/raids/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
