@@ -3,8 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://origin-finkle.github.io/wcl/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://origin-finkle.github.io/wcl/raids/r8mafh91kwxxtwjv/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://origin-finkle.github.io/wcl/raids/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://origin-finkle.github.io/wcl/raids/tkyq24vhbcynxhj1/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
@@ -13,9 +19,6 @@
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://origin-finkle.github.io/wcl/raids/bw2krjzftpzx9mng/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://origin-finkle.github.io/wcl/raids/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://origin-finkle.github.io/wcl/raids/ay1wqfdj3fnwykml/</loc>
@@ -324,6 +327,9 @@
     <loc>https://origin-finkle.github.io/wcl/characters/jeand%C3%A9sir%C3%A9/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://origin-finkle.github.io/wcl/characters/keva/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://origin-finkle.github.io/wcl/characters/krijae/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -372,6 +378,9 @@
     <loc>https://origin-finkle.github.io/wcl/characters/namah/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://origin-finkle.github.io/wcl/characters/nasher/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://origin-finkle.github.io/wcl/characters/nekonome/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -411,6 +420,9 @@
     <loc>https://origin-finkle.github.io/wcl/characters/swanay/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://origin-finkle.github.io/wcl/characters/symarina/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://origin-finkle.github.io/wcl/characters/s%C3%B6crate/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -439,6 +451,9 @@
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://origin-finkle.github.io/wcl/characters/zvora/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://origin-finkle.github.io/wcl/characters/zvor%C3%A0/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://origin-finkle.github.io/wcl/characters/z%C3%A9npa/</loc>
