@@ -3,16 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://origin-finkle.github.io/wcl/</loc>
-    <lastmod>2021-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://origin-finkle.github.io/wcl/raids/wtv1fngm4zvbrtxd/</loc>
+    <lastmod>2021-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://origin-finkle.github.io/wcl/raids/</loc>
+    <lastmod>2021-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://origin-finkle.github.io/wcl/raids/q2vktcwap8yp1qvb/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://origin-finkle.github.io/wcl/raids/x7h3wcalvj42bzqn/</loc>
-    <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://origin-finkle.github.io/wcl/raids/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://origin-finkle.github.io/wcl/raids/xvjra7n2h4adttch/</loc>
@@ -538,6 +541,9 @@
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://origin-finkle.github.io/wcl/characters/sikohex/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://origin-finkle.github.io/wcl/characters/sikolette/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://origin-finkle.github.io/wcl/characters/sishasong/</loc>
