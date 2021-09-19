@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remarques on L&#39;oeil de Moscou</title>
+    <link>https://origin-finkle.github.io/wcl/remarks/</link>
+    <description>Recent content in Remarques on L&#39;oeil de Moscou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://origin-finkle.github.io/wcl/remarks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nombre de points de talent invalide</title>
+      <link>https://origin-finkle.github.io/wcl/remarks/invalid-talent-points/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://origin-finkle.github.io/wcl/remarks/invalid-talent-points/</guid>
+      <description>Cette remarque est émise lorsque le nombre de points de talents enregistré par les logs est différent de 61.</description>
+    </item>
+    
+    <item>
+      <title>Un sort de rang supérieur est disponible</title>
+      <link>https://origin-finkle.github.io/wcl/remarks/cast-higher-rank-available/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://origin-finkle.github.io/wcl/remarks/cast-higher-rank-available/</guid>
+      <description>Cette remarque est émise lorsqu&amp;rsquo;un sort est utilisé alors qu&amp;rsquo;un rang supérieur est disponible et plus adapté.</description>
+    </item>
+    
+  </channel>
+</rss>

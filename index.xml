@@ -1637,6 +1637,15 @@
     </item>
     
     <item>
+      <title>Nombre de points de talent invalide</title>
+      <link>https://origin-finkle.github.io/wcl/remarks/invalid-talent-points/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://origin-finkle.github.io/wcl/remarks/invalid-talent-points/</guid>
+      <description>Cette remarque est émise lorsque le nombre de points de talents enregistré par les logs est différent de 61.</description>
+    </item>
+    
+    <item>
       <title>Näely</title>
       <link>https://origin-finkle.github.io/wcl/characters/n%C3%A4ely/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
@@ -1832,6 +1841,15 @@
       
       <guid>https://origin-finkle.github.io/wcl/characters/twinkii/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Un sort de rang supérieur est disponible</title>
+      <link>https://origin-finkle.github.io/wcl/remarks/cast-higher-rank-available/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://origin-finkle.github.io/wcl/remarks/cast-higher-rank-available/</guid>
+      <description>Cette remarque est émise lorsqu&amp;rsquo;un sort est utilisé alors qu&amp;rsquo;un rang supérieur est disponible et plus adapté.</description>
     </item>
     
     <item>
