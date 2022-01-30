@@ -170,7 +170,7 @@
         
             <div class="col-12">
                 <h4>15 ro cape</h4>
-                (Fight = Mother Shahraz) OR (Fight = Illidan Stormrage AND PlayerClass = Warlock)
+                ((Fight = Mother Shahraz) OR (PlayerRole = Heal)) OR (Fight = Illidan Stormrage AND PlayerClass = Warlock)
             </div>
         
     
@@ -408,6 +408,13 @@
     
         
             <div class="col-12">
+                <h4>10 ro jambes</h4>
+                Fight = Mother Shahraz
+            </div>
+        
+    
+        
+            <div class="col-12">
                 <h4>lunette 28 crit</h4>
                 PlayerClass = Hunter
             </div>
@@ -436,6 +443,13 @@
     
         
             <div class="col-12">
+                <h4>patch 8 def</h4>
+                PlayerRole = Tank
+            </div>
+        
+    
+        
+            <div class="col-12">
                 <h4>Renfort d&#39;armure en cuir granuleux lourd</h4>
                 INVALID
             </div>
@@ -459,6 +473,13 @@
             <div class="col-12">
                 <h4>20 heal power bague</h4>
                 PlayerRole = Heal
+            </div>
+        
+    
+        
+            <div class="col-12">
+                <h4>15 resi torse</h4>
+                PlayerRole = Tank
             </div>
         
     
@@ -613,8 +634,8 @@
     
         
             <div class="col-12">
-                <h4>7 allres epaules</h4>
-                Fight = High Astromancer Solarian
+                <h4>7 all res epaules</h4>
+                Fight IN (High Astromancer Solarian, Mother Shahraz)
             </div>
         
     
@@ -684,7 +705,7 @@
         
             <div class="col-12">
                 <h4>40 endu 12 agi jambes</h4>
-                PlayerRole = Tank AND PlayerSpec != ProtectionPaladin
+                (PlayerRole = Tank AND PlayerSpec != ProtectionPaladin) OR (PlayerSpec = SurvivalHunter AND Fight = Mother Shahraz)
             </div>
         
     
@@ -706,6 +727,13 @@
             <div class="col-12">
                 <h4>20 agi arme 1h</h4>
                 PlayerRole = Physical
+            </div>
+        
+    
+        
+            <div class="col-12">
+                <h4>12 resi bouclier</h4>
+                PlayerRole = Tank
             </div>
         
     
